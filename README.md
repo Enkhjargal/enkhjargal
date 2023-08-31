@@ -11,6 +11,9 @@ I've lived and worked in Ulaanbaatar, Seoul, and Dubai, exploring different cult
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,bootstrap,css,express,figma,firebase,gcp,git,github,go,html,java,js,kotlin,laravel,mysql,nginx,nodejs,php,postman,react,redux,sass,sqlite,styledcomponents,tailwind,ts,vscode,wordpress)](https://skillicons.dev)
 
+## Stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=enkhjargal)](https://git.io/streak-stats)
+
 > I'll be updating my README soon. Thank you! 🙏
 
 ## Get in touch 👋
