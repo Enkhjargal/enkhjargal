@@ -9,12 +9,13 @@ I am a digital nomad 🌎 and software developer 🧑‍💻 who works remotely.
 📍 Locations: I've lived and worked in Ulaanbaatar, Seoul, and Dubai, exploring different cultures and tech scenes.
 
 👨‍💻 Tech stacks:
-- Node.js
-- TypeScript
-- Go (programming language)
-- Java/Kotlin
-- PHP (Laravel framework)
-- HTML/JS/CSS
+- [Node.js](https://github.com/topics/nodejs)
+- [TypeScript](https://github.com/topics/typescript)
+- [Go](https://github.com/topics/go) (programming language)
+- [Java](https://github.com/topics/java) / [Kotlin](https://github.com/topics/kotlin)
+- [PHP](https://github.com/topics/php) ([Laravel framework](https://github.com/laravel/framework))
+- [SQL](https://github.com/topics/sql)
+- [HTML](https://github.com/topics/html) / [JavaScript](https://github.com/topics/javascript) / [CSS](https://github.com/topics/css)
 
 > I'll be updating my README soon. Thank you! 🙏
 
