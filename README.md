@@ -5,6 +5,10 @@ My name is **Enkhjargal**, but you can call me Jack in English 🇬🇧.
 
 I am a digital nomad 🌎 and software developer 🧑‍💻 who works remotely.
 
+## Summary
+
+🌱 I’m currently learning Python, Ruby, and C++.
+
 ## Locations 📍
 I've lived and worked in Ulaanbaatar, Seoul, and Dubai, exploring different cultures and tech scenes.
 
