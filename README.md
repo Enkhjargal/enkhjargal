@@ -5,17 +5,11 @@ My name is **Enkhjargal**, but you can call me Jack in English 🇬🇧.
 
 I am a digital nomad 🌎 and software developer 🧑‍💻 who works remotely.
 
-## Features
-📍 Locations: I've lived and worked in Ulaanbaatar, Seoul, and Dubai, exploring different cultures and tech scenes.
+## Locations 📍
+I've lived and worked in Ulaanbaatar, Seoul, and Dubai, exploring different cultures and tech scenes.
 
-👨‍💻 Tech stacks:
-- [Node.js](https://github.com/topics/nodejs)
-- [TypeScript](https://github.com/topics/typescript)
-- [Go](https://github.com/topics/go) (programming language)
-- [Java](https://github.com/topics/java) / [Kotlin](https://github.com/topics/kotlin)
-- [PHP](https://github.com/topics/php) ([Laravel framework](https://github.com/laravel/framework))
-- [SQL](https://github.com/topics/sql)
-- [HTML](https://github.com/topics/html) / [JavaScript](https://github.com/topics/javascript) / [CSS](https://github.com/topics/css)
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,bootstrap,css,express,figma,firebase,gcp,git,github,go,html,java,js,kotlin,laravel,mysql,nginx,nodejs,php,postman,react,redux,sass,sqlite,styledcomponents,tailwind,ts,vscode,wordpress)](https://skillicons.dev)
 
 > I'll be updating my README soon. Thank you! 🙏
 
