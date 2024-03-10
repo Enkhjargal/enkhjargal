@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ## Introduction
-My name is [**Enkhjargal**](https://enkhjargal.me), but you can call me **Jack** in English 🇬🇧.
+My name is [**Enkhjargal**](https://enkhjargal.me), but you can call me **Jack** for shortly.
 
-I am a digital nomad 🌎 and software developer 🧑‍💻 who works remotely.
+I am a digital nomad 🌎 and a software developer 🧑‍💻.
 
 ## Summary
 
@@ -13,12 +13,12 @@ I am a digital nomad 🌎 and software developer 🧑‍💻 who works remotely.
 I've lived and worked in [Ulaanbaatar](https://en.wikipedia.org/wiki/Ulaanbaatar), [Seoul](https://en.wikipedia.org/wiki/Seoul), and [Dubai](https://en.wikipedia.org/wiki/Dubai), exploring different cultures and tech scenes.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,arduino,aws,bash,bootstrap,css,express,figma,firebase,gcp,git,github,go,html,java,js,kotlin,laravel,mysql,nginx,nodejs,php,postman,react,redux,sass,sqlite,styledcomponents,tailwind,ts,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,go,java,js,kotlin,laravel,mysql,nodejs,php,postman,react,sass,tailwind)](https://skillicons.dev)
 
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=enkhjargal)](https://git.io/streak-stats)
 
-> I'll be updating my README soon. Thank you! 🙏
+> I'll be updating my README time to time. Thank you! 😎
 
 ## Get in touch 👋
 
