@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Introduction
-My name is [**Enkhjargal**](https://enkhjargal.me), but you can call me **Jack** for shortly.
+My name is **Enkhjargal**, but you can call me **Jack** for shortly.
 
 I am a digital nomad 🌎 and a software developer 🧑‍💻.
 
