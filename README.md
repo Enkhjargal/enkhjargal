@@ -3,8 +3,6 @@
 ## Introduction
 My name is **Enkhjargal**, but you can call me **Jack** for shortly.
 
-I am a digital nomad 🌎 and a software developer 🧑‍💻.
-
 ## Summary
 
 🌱 I’m currently learning [Python](https://github.com/topics/python), [Ruby](https://github.com/topics/ruby), and [C++](https://github.com/topics/cpp).
