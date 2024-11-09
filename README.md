@@ -16,8 +16,6 @@ I've lived and worked in [Ulaanbaatar](https://en.wikipedia.org/wiki/Ulaanbaatar
 ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=enkhjargal)](https://git.io/streak-stats)
 
-> I'll be updating my README time to time. Thank you! 😎
-
 ## Get in touch 👋
 
 Let's connect on LinkedIn:
